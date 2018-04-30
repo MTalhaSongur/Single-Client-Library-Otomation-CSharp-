@@ -1,0 +1,41 @@
+F:\18.07\son hal,\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\Kutuphane_Otomasyon.exe.config
+F:\18.07\son hal,\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\bin\x86\Debug\Kut.Oto_VeriTabani.accdb
+F:\18.07\son hal,\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\Kutuphane_Otomasyon.exe
+F:\18.07\son hal,\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\Kutuphane_Otomasyon.pdb
+F:\18.07\son hal,\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.FKisiler.resources
+F:\18.07\son hal,\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.FKitapAlim.resources
+F:\18.07\son hal,\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.FKitaplar.resources
+F:\18.07\son hal,\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.AnaEkran.resources
+F:\18.07\son hal,\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.Properties.Resources.resources
+F:\18.07\son hal,\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.csproj.GenerateResource.Cache
+F:\18.07\son hal,\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.exe
+F:\18.07\son hal,\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.pdb
+F:\18.07\son hal,\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Talha\Desktop\projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\Kutuphane_Otomasyon.exe.config
+C:\Users\Talha\Desktop\projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.exe
+C:\Users\Talha\Desktop\projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.pdb
+C:\Users\Talha\Desktop\projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\bin\x86\Debug\Kut.Oto_VeriTabani.accdb
+C:\Users\Talha\Desktop\projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\Kutuphane_Otomasyon.exe
+C:\Users\Talha\Desktop\projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\Kutuphane_Otomasyon.pdb
+C:\Users\Talha\Desktop\projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Talha\Desktop\projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.FKisiler.resources
+C:\Users\Talha\Desktop\projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.FKitapAlim.resources
+C:\Users\Talha\Desktop\projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.FKitaplar.resources
+C:\Users\Talha\Desktop\projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.AnaEkran.resources
+C:\Users\Talha\Desktop\projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.Properties.Resources.resources
+C:\Users\Talha\Desktop\projeler\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.csproj.GenerateResource.Cache
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\Kutuphane_Otomasyon.exe.config
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.exe
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.pdb
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\bin\x86\Debug\Kut.Oto_VeriTabani.accdb
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\Kutuphane_Otomasyon.exe
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\Kutuphane_Otomasyon.pdb
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\Kutuphane_Otomasyon.exe.CodeAnalysisLog.xml
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\bin\x86\Debug\Kutuphane_Otomasyon.exe.lastcodeanalysissucceeded
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.csprojResolveAssemblyReference.cache
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.FKisiler.resources
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.FKitapAlim.resources
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.FKitaplar.resources
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.AnaEkran.resources
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.Properties.Resources.resources
+D:\Klasörler\projeler(2013-2014)\Kutuphane_Otomasyon\Kutuphane_Otomasyon\obj\x86\Debug\Kutuphane_Otomasyon.csproj.GenerateResource.Cache

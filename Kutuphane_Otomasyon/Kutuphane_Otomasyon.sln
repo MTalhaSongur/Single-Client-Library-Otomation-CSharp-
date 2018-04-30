@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kutuphane_Otomasyon", "Kutuphane_Otomasyon\Kutuphane_Otomasyon.csproj", "{1F224EB8-EE17-4723-BE75-817D142A394F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F224EB8-EE17-4723-BE75-817D142A394F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F224EB8-EE17-4723-BE75-817D142A394F}.Debug|x86.ActiveCfg = Debug|x86
+		{1F224EB8-EE17-4723-BE75-817D142A394F}.Debug|x86.Build.0 = Debug|x86
+		{1F224EB8-EE17-4723-BE75-817D142A394F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F224EB8-EE17-4723-BE75-817D142A394F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F224EB8-EE17-4723-BE75-817D142A394F}.Release|x86.ActiveCfg = Release|x86
+		{1F224EB8-EE17-4723-BE75-817D142A394F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
